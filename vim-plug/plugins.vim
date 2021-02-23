@@ -12,7 +12,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'vim-airline/vim-airline'
     " vim-airline-themes
     Plug 'vim-airline/vim-airline-themes'
-
-
+    " plugin for code formatting
+    Plug 'chiel92/vim-autoformat'
 call plug#end()
 
